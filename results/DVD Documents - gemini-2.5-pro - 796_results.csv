@@ -1,0 +1,2 @@
+inputs.category,inputs.image_id,outputs.category,error,reference.category,feedback.field_match,execution_time,example_id,id
+face photo,/content/drive/MyDrive/CC Sample/82753/photo.jpg,face photo,,face photo,1.0,9.042395,39ebf850-a27f-4f5d-a28e-ca353fe065f3,9a65e72d-66ff-4c7c-ba97-61f85db3521c
